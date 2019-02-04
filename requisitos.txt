@@ -1,6 +1,0 @@
-1 - o professor irá se cadastrar na plataforma, fornecendo os seus serviços e seus valores
-2 - a empresa irá se cadastrar na plataforma, para contratar o profissional
-3 - a empresa irá encontrar o profissional por meio de geolocalização
-4 - a empresa deve fornecer dados dos participartes da aula
-5 - o aplicativo será responsavel por intermediar o pagamento do profissional
-6 - a empresa e os funcionarios poderam avaliar o professor
