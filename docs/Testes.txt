@@ -1,0 +1,79 @@
+DESIGN
+
+Tela inicial: **OK**
+•	Cadastro de usuário: Nome da empresa/cnpj/endereço/numero de funcionários da empresa/telefone/e-mail.
+•	Cadastro de Professor: nome / endereço de atendimento / cpf ou cnpj/línguas que ensina.
+•	Login :usuário/senha
+ 
+Tela de Busca: **OK**
+•	Busca dos professores: língua desejada/numero de alunos participantes. 
+
+Tela de apresentação dos professores: 
+•	Apresentação dos professores de acordo com a localização em relação a empresa.
+•	Disponibilidade do professor na semana (dias da semana disponível).
+•	Valor da hora aula de cada professor.
+•	Classificação do professor pelas empresas anteriores (didática/ material/ dominio do assunto).
+•	Empresa seleciona o professor desejado e confirma a contratação do serviço.
+•	Seleção dos dias da semana que a aula ocorrerá de acordo com a agenda do professor.
+
+Tela de Contratação do serviço: **OK**
+•	Seleção da forma de pagamento (deposito em conta/ cartão de credito/paypal/pag seguro)
+•	Confirmação do pagamento.
+•	O professor recebe um comunicado pelo app informando sobre a aula contratada com as informações: data, horário, local, tamanha da turma. 
+Avaliação: **OK**
+•	Empresa avalia o performance do professor com nota de 1 a 10 para os itens: didática/material/domínio do assunto.
+•	Professor avalia a turma de 1 a 10: participação/ frequência/comportamento.
+
+ 
+ 
+CODIFICAÇÃO
+
+Tecnologias a serem usadas no desenvolvimento do projeto **OK**     
+1 - Linguagem node para o backend **OK**
+2 - Framework express para a criação da api **OK**
+3 - Vue.js para o front end **OK**
+4 - integração com a api da pagseguro/paypal **OK**
+5 - Mysql para o banco de dados - OK -
+6 - Será usado a biblioteca Sequelize para gerenciamento do banco de dados **OK**
+7 - Será usado a biblioteca FullCalendar para o calendario do profissional **OK**
+8 - Será usado o JWT para a autenticação **OK**
+
+REQUISITOS
+
+1 - o professor irá se cadastrar na plataforma, fornecendo os seus serviços e seus valores **OK**
+2 - a empresa irá se cadastrar na plataforma, para contratar o profissional
+ **OK**
+3 - a empresa irá encontrar o profissional por meio de geolocalização **OK**
+4 - a empresa deve fornecer dados dos participartes da aula
+ **OK**
+5 - o aplicativo será responsavel por intermediar o pagamento do profissional
+ **OK**
+6 - a empresa e os funcionarios poderam avaliar o professor
+ **OK**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
