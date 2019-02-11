@@ -1,52 +1,54 @@
+
+Vinicius de Oliveira Mendes Lima - 1801827
 DESIGN
 
 Tela inicial: **OK**
-ï	Cadastro de usu·rio: Nome da empresa/cnpj/endereÁo/numero de funcion·rios da empresa/telefone/e-mail.
-ï	Cadastro de Professor: nome / endereÁo de atendimento / cpf ou cnpj/lÌnguas que ensina.
-ï	Login :usu·rio/senha
+‚Ä¢	Cadastro de usu√°rio: Nome da empresa/cnpj/endere√ßo/numero de funcion√°rios da empresa/telefone/e-mail.
+‚Ä¢	Cadastro de Professor: nome / endere√ßo de atendimento / cpf ou cnpj/l√≠nguas que ensina.
+‚Ä¢	Login :usu√°rio/senha
  
 Tela de Busca: **OK**
-ï	Busca dos professores: lÌngua desejada/numero de alunos participantes. 
+‚Ä¢	Busca dos professores: l√≠ngua desejada/numero de alunos participantes. 
 
-Tela de apresentaÁ„o dos professores: 
-ï	ApresentaÁ„o dos professores de acordo com a localizaÁ„o em relaÁ„o a empresa.
-ï	Disponibilidade do professor na semana (dias da semana disponÌvel).
-ï	Valor da hora aula de cada professor.
-ï	ClassificaÁ„o do professor pelas empresas anteriores (did·tica/ material/ dominio do assunto).
-ï	Empresa seleciona o professor desejado e confirma a contrataÁ„o do serviÁo.
-ï	SeleÁ„o dos dias da semana que a aula ocorrer· de acordo com a agenda do professor.
+Tela de apresenta√ß√£o dos professores: 
+‚Ä¢	Apresenta√ß√£o dos professores de acordo com a localiza√ß√£o em rela√ß√£o a empresa.
+‚Ä¢	Disponibilidade do professor na semana (dias da semana dispon√≠vel).
+‚Ä¢	Valor da hora aula de cada professor.
+‚Ä¢	Classifica√ß√£o do professor pelas empresas anteriores (did√°tica/ material/ dominio do assunto).
+‚Ä¢	Empresa seleciona o professor desejado e confirma a contrata√ß√£o do servi√ßo.
+‚Ä¢	Sele√ß√£o dos dias da semana que a aula ocorrer√° de acordo com a agenda do professor.
 
-Tela de ContrataÁ„o do serviÁo: **OK**
-ï	SeleÁ„o da forma de pagamento (deposito em conta/ cart„o de credito/paypal/pag seguro)
-ï	ConfirmaÁ„o do pagamento.
-ï	O professor recebe um comunicado pelo app informando sobre a aula contratada com as informaÁıes: data, hor·rio, local, tamanha da turma. 
-AvaliaÁ„o: **OK**
-ï	Empresa avalia o performance do professor com nota de 1 a 10 para os itens: did·tica/material/domÌnio do assunto.
-ï	Professor avalia a turma de 1 a 10: participaÁ„o/ frequÍncia/comportamento.
+Tela de Contrata√ß√£o do servi√ßo: **OK**
+‚Ä¢	Sele√ß√£o da forma de pagamento (deposito em conta/ cart√£o de credito/paypal/pag seguro)
+‚Ä¢	Confirma√ß√£o do pagamento.
+‚Ä¢	O professor recebe um comunicado pelo app informando sobre a aula contratada com as informa√ß√µes: data, hor√°rio, local, tamanha da turma. 
+Avalia√ß√£o: **OK**
+‚Ä¢	Empresa avalia o performance do professor com nota de 1 a 10 para os itens: did√°tica/material/dom√≠nio do assunto.
+‚Ä¢	Professor avalia a turma de 1 a 10: participa√ß√£o/ frequ√™ncia/comportamento.
 
  
  
-CODIFICA«√O
+CODIFICA√á√ÉO
 
 Tecnologias a serem usadas no desenvolvimento do projeto **OK**     
 1 - Linguagem node para o backend **OK**
-2 - Framework express para a criaÁ„o da api **OK**
+2 - Framework express para a cria√ß√£o da api **OK**
 3 - Vue.js para o front end **OK**
-4 - integraÁ„o com a api da pagseguro/paypal **OK**
+4 - integra√ß√£o com a api da pagseguro/paypal **OK**
 5 - Mysql para o banco de dados - OK -
-6 - Ser· usado a biblioteca Sequelize para gerenciamento do banco de dados **OK**
-7 - Ser· usado a biblioteca FullCalendar para o calendario do profissional **OK**
-8 - Ser· usado o JWT para a autenticaÁ„o **OK**
+6 - Ser√° usado a biblioteca Sequelize para gerenciamento do banco de dados **OK**
+7 - Ser√° usado a biblioteca FullCalendar para o calendario do profissional **OK**
+8 - Ser√° usado o JWT para a autentica√ß√£o **OK**
 
 REQUISITOS
 
-1 - o professor ir· se cadastrar na plataforma, fornecendo os seus serviÁos e seus valores **OK**
-2 - a empresa ir· se cadastrar na plataforma, para contratar o profissional
+1 - o professor ir√° se cadastrar na plataforma, fornecendo os seus servi√ßos e seus valores **OK**
+2 - a empresa ir√° se cadastrar na plataforma, para contratar o profissional
  **OK**
-3 - a empresa ir· encontrar o profissional por meio de geolocalizaÁ„o **OK**
+3 - a empresa ir√° encontrar o profissional por meio de geolocaliza√ß√£o **OK**
 4 - a empresa deve fornecer dados dos participartes da aula
  **OK**
-5 - o aplicativo ser· responsavel por intermediar o pagamento do profissional
+5 - o aplicativo ser√° responsavel por intermediar o pagamento do profissional
  **OK**
 6 - a empresa e os funcionarios poderam avaliar o professor
  **OK**
