@@ -51,6 +51,8 @@ REQUISITOS
 6 - a empresa e os funcionarios poderam avaliar o professor
  **OK**
 
+
+Lucas Cruz Maia  RA:1520134
 Implantação
 
 Seguiremos com a implantação pacial do sistema com um grupo e espaço mais restrito
