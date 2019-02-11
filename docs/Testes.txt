@@ -71,3 +71,7 @@ A meta principal é buscar os espaços mais críticos onde existirem problemas o
 
 Faremos também uma pequena divulgação usando os resultados dessa beta afim de atrair mais usuários e clientes
 
+
+Gabriel Batista dos Santos Miranda RA:1802308
+
+Foi validado os iten: DESIGN, CODIFICAÇÃO, REQUISITOS e a IMPLEMENTAÇÃO do projeto, e colocado **OK** em todos os itens que estavam de acordo com a ideia do projeto.
